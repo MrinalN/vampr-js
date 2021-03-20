@@ -49,3 +49,25 @@ describe("Vampire", function() {
 
   });
 });
+
+///TEST
+
+// class Vampire {
+//   constructor(name, yearConverted) {
+//     this.name = name;
+//     this.yearConverted = yearConverted;
+//     this.offspring = [];
+//     this.creator = null;
+//   isMoreSeniorThan(vampire) {
+//   // let currentVampire = this;
+//   // let comparingVampire = currentVampire.creator;
+//   // if(currentVampire.yearConverted > comparingVampire.yearConverted){
+//     return this.creator = vampire.creator;
+// //   }
+// // }
+//   }
+
+// console.log(rootVampire.isMoreSeniorThan(offspring1))
+  
+
+
